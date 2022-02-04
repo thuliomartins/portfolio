@@ -1,6 +1,6 @@
 # Portfolio
 
-## Development of a sidebar using::
+## Development of a Pportfolio using::
 
 * HTML
 * CSS
