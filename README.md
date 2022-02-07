@@ -1,6 +1,6 @@
 # Portfolio
 
-## Development of a Pportfolio using::
+## Development of a portfolio using::
 
 * HTML
 * CSS
